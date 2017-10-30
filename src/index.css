@@ -1,0 +1,8 @@
+body {
+  background: #ddd;
+}
+#root {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+}
