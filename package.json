@@ -2,6 +2,7 @@
   "name": "react-project",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://330387398.github.io/react-project/build",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
