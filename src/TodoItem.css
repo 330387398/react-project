@@ -1,0 +1,9 @@
+.TodoItem {
+    display: flex;
+    padding: .5em;
+    align-items: center;
+}
+.TodoItem > .title {
+    flex-grow: 1;
+    padding: 0 .5em;
+}
