@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://330387398.github.io/react-project/build",
   "dependencies": {
+    "leancloud-storage": "^3.3.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.14"
