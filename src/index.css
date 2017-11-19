@@ -1,8 +1,10 @@
+
 body {
-  background: url(https://zegendary.coding.me/project/mission/%E6%BC%82%E4%BA%AE%E7%9A%84%E7%99%BB%E9%99%86%E6%A1%86/background.png);
+	background: url(https://330387398.github.io/Library/todolist-background.png);
 }
+
 #root {
-  display: flex;
-  min-height: 100vh;
-  justify-content: center;
+	display: flex;
+	min-height: 100vh;
+	justify-content: center;
 }
